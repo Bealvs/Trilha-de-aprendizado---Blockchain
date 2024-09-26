@@ -45,7 +45,7 @@ Táticas de abordagem:
 
 ### Compartilhamento de Acesso
 
-- As credenciais de acesso, de qualquer sistema, constituem a identificação do usuário, para que ele possa ter acesso a determinadas informações.
+- As credenciais de acesso, de qualquer sistema, constituem a identificação do usuário, para que ele possa ter acesso a determinadas informações. Deve-se tomar cuidado com isso. 
 
 ### Softwares e malwares
 

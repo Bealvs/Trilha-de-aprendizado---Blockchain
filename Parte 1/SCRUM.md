@@ -32,7 +32,7 @@ Existem os seguintes ambientes:
 
 * Situação urgente, caótica, impreterível;
 * Exige liderança e ações para diminuir prejuízos;
-* ** Decisão: **Sonda e faz testes.
+* ** Decisão: **Age, sente e responde.
 
 ### Centro (desordenado):
 
@@ -52,7 +52,7 @@ Os métodos ágeis são os **fins** para que a sua estrégia funcione, ou seja, 
    * **"Colaboração com o cliente mais do que negociação de contratos."**
      * Também é necessário que o **cliente** fique **satisfeito** com a situação e crie laços com a empresa. 
    * **"Responder as mudanças mais que seguir um plano."**
-     * De nada adianta seguir um plano que não está de acordo com o que está havendo. Com o passar do tempo podem ocorrer **situações inesperadas** e deve-se pensar em soluções e agir **baseado** nelas.
+     * De nada adianta seguir um plano que não está de acordo com o que está havendo. Com o passar do tempo podem ocorrer **situações inesperadas** e deve-se pensar em soluções e agir **baseado** nelas para buscar soluções.
    
  * 12 Princípios: 
   
@@ -66,7 +66,7 @@ Os métodos ágeis são os **fins** para que a sua estrégia funcione, ou seja, 
         * Trabalhar de forma individual e cada um tentando ser melhor que o outro demonstra falta de maturidade e possíveis atrasos para a equipe, além de um ambiente desconfortável.
     5. Confie e apoie;
         * Confiar no potencial de cada um e se necessário, ajudá-los caso tenham alguma dúvida ou problema é essencial;
-    6.  Conversa face a face.
+    6.  Conversa face a face;
         * Torna a discussão mais satisfatória e eficiente. Para a melhor análise das expressões, tom de voz e a própria conversação em si.
     7.  Softwares funcionando;
         * Se o produto não funcionar, é questão de tempo até não ter mais o cliente. Sem clientes a empresa não anda.  
@@ -107,13 +107,13 @@ Estratégia -> Portfólio -> Produto -> Entrega -> Sprint -> Diário.
 
 ## Pilares de SCRUM
 
-- **Transparência:** Aspectos do processo que afetam os resultadosdevem devem ser visíveis e conhecidos aos responsáveis pelo controle.
+- **Transparência:** Aspectos do processo que afetam os resultados, devem ser visíveis e conhecidos aos responsáveis pelo controle.
 - **Inspeção:** Processos totalmente inspecionados com uma certa frequência para fazer adaptações. De acordo com as necessidades que surgem.
 - **Adaptação:** Se neste processo, encontrar variações fora dos limites aceitáveis, o processo deve ser ajustável o mais breve possível.
 
 ## Papéis e responsabilidades
 
-Times pequenos que visam entregar valor ao cliente. É importante destacar que quanto mais complexa for a estrutura hierárquica (time maior), mais complexa seria a gestão. Ou em outras palavras, quanto maior o time, mais difícil será de gerir. Eles são compostos por:
+ É importante destacar que quanto mais complexa for a estrutura hierárquica (time maior), mais complexa seria a gestão. Ou em outras palavras, quanto maior o time, mais difícil será de gerir. Eles são compostos por:
 
 - SCRUM Master
   - Possui amplo conhecimento em SCRUM;
@@ -188,7 +188,7 @@ Caracterizados por serem uma visão do andamento do projeto e das sprints.
   - A fazer, fazendo e feito.
 
 - Gráficos Burndown
-  - Representa a soma das estimativas dos esforços para completar o backlog. O da sprint é voltado para "pegar" as tarefas para a sprint com base nos dias. 
+  - Representa a soma das estimativas dos esforços para completar o backlog.
 
 ## User stories
 
