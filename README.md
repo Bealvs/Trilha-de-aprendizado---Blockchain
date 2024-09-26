@@ -10,16 +10,16 @@ Com relação a primeira seção, os assuntos abordados foram os seguintes:
 - :computer: Markdown;
 - :closed_lock_with_key: Segurança da informação.
 
-## Sobres as regras que serão/foram utilizadas com relação ao commit até o momento:
+## Sobres as regras que serão utilizadas com relação ao commit de documentos:
 
 ### Para um commit que adiciona um novo documento nas anotações
-add-doc ( ): adicionei o novo documento
+addDoc ( ): adicionei o novo documento
 
 ### Para uma atualização nas anotações
-update-doc ( ): atualizei instruções em tal lugar
+updateDoc ( ): atualizei instruções em tal lugar
 
 ### Para uma correção de algum erro nas anotações
-fix-doc ( ): corrigi tal documentação
+fixDoc ( ): corrigi tal documentação
 
 ### Para uma remoção de algo obsoleto nas anotações
-remove-doc ( ): documento1 removido
+removeDoc ( ): documento1 removido
