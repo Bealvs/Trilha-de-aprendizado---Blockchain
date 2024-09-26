@@ -12,14 +12,14 @@ Com relação a primeira seção, os assuntos abordados foram os seguintes:
 
 ## Sobres as regras que serão/foram utilizadas com relação ao commit até o momento:
 
-### Para um commit que adiciona um novo documento
+### Para um commit que adiciona um novo documento nas anotações
 add-doc ( ): adicionei o novo documento
 
-### Para uma atualização nas anotações:
+### Para uma atualização nas anotações
 update-doc ( ): atualizei instruções em tal lugar
 
-### Para uma correção de algum erro:
+### Para uma correção de algum erro nas anotações
 fix-doc ( ): corrigi tal documentação
 
-### Para uma remoção de algo obsoleto:
-remove-doc ( ): documento 1 removido
+### Para uma remoção de algo obsoleto nas anotações
+remove-doc ( ): documento1 removido
