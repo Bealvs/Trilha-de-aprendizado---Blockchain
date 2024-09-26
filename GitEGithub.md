@@ -136,7 +136,10 @@ Existem 3 maneiras de resetar os dados:
 |Soft|Mixed|Hard|
 |-|-|-|
 |Ele volta para o ponto anterior e coloca o que estava antes (mais recente) como *staged* (tá pronto para o *commit*), mas que ainda não foi commitado.|Da mesma forma que o *soft* mas não deixa *staged*, fica *unstaged*, neste caso, torna necessário fazer o *add .* e o *commit*|Remove tudo que foi feito depois do ponto escolhido para voltar e não tem como restaurar|
+
+
 **OBS.:** O *mixed* é o default.
+
 
 Exemplo:
 
