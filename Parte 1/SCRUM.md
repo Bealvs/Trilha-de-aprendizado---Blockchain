@@ -11,14 +11,14 @@ Existem os seguintes ambientes:
 * Exige coordenação;
 * Documentação, processos e projetos para tirar dúvidas;
 * Ex.: Analistas;
-* ** Decisão: ** Sente, categoriza e responde. 
+* **Decisão:** Sente, categoriza e responde. 
 
 ### Complicado:
 
 * Comhecimentos e entendimentos mais distantes, neste caso há o conhecimento e não o entendimento do que deve ser feito. Quando não se sabe praticar;
 * Exige colaboração;
-* Um especialista, alguém que tenha o entedimento é necessário para repssar para que quem tem apenas o conhecimento possa aprender;
-* ** Decisão: ** Sente, analisa e responde. 
+* Um especialista, alguém que tenha o entedimento é necessário para repassar para que quem tem apenas o conhecimento possa aprender;
+* **Decisão:** Sente, analisa e responde. 
 
 ### Complexo:
 
@@ -26,13 +26,13 @@ Existem os seguintes ambientes:
 * Abordagens (metodologias) ágeis;
 * Tem o facilitador que ajuda a fazer testes;
 * EX.: Designers e cientistas;
-* ** Decisão: **Sonda e faz testes.
+* **Decisão:**Sonda e faz testes.
 
 ### Caótico:
 
 * Situação urgente, caótica, impreterível;
 * Exige liderança e ações para diminuir prejuízos;
-* ** Decisão: **Age, sente e responde.
+* **Decisão:**Age, sente e responde.
 
 ### Centro (desordenado):
 
