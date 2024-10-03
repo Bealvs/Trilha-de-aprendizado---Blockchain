@@ -10,6 +10,19 @@ Com relação a primeira seção, os assuntos abordados foram os seguintes:
 - :computer: Markdown;
 - :closed_lock_with_key: Segurança da informação.
 
+Estão na *branch*: **Basics-for-Teamwork-and-Agile-Development**
+
+Com relação a segunda seção, os assuntos abordados foram os seguintes:
+
+- :speech_balloon: Blockchain explicada em 5 níveis de dificuldade;
+- :moneybag: Bitcoin e Blockchain - Conceitos Fundamentais;
+- :video_game: Blockchain Demo;
+- :dollar: Blockchain na prática;
+- :chart_with_upwards_trend: Quando utilizar Blockchain?
+- :scroll: Blockchain Explicado em Inglês Simples!
+
+Estão na *branch*: **Blockchain-Safe-Shallows**
+
 ## Sobres as regras que serão utilizadas com relação ao commit de documentos:
 
 ### Para um commit que adiciona um novo documento nas anotações
