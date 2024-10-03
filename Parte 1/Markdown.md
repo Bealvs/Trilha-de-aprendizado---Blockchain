@@ -9,12 +9,12 @@ Trata-se de uma liguagem de marcação assim como HTML. Cujo propósito é ser f
 |--- ou ***|Para colocar uma linha separando|---|
 |<!---   --->|Comentários|<!--- Texto --->|
 |* *|Ênfase|*Texto*|
-|** **|Negrito|** Texto **|
+|** **|Negrito|**Texto**|
 |_ _|Itálico|_Texto_|
 |- ou * |Lista não-ordenada|- Texto ou * Texto|
 |1. |Lista ordenada|1. Texto|
 |[ ]|Checkbox|- [ ] ou para marcar - [X] (É possível aninhar)|
-|>|Citação|> Texto (É possível aninhar)|
+|>|Citação|>Texto (É possível aninhar)|
 |Aspas|Inline code|`Texto`|
 |Aspas (3 de cada lado)|Block code|```Texto```|
 
