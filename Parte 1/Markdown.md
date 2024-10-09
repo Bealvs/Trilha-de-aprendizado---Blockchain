@@ -15,8 +15,8 @@ Trata-se de uma liguagem de marcação assim como HTML. Cujo propósito é ser f
 |1. |Lista ordenada|1. Texto|
 |[ ]|Checkbox|- [ ] ou para marcar - [X] (É possível aninhar)|
 |>|Citação|>Texto (É possível aninhar)|
-|Aspas|Inline code|`Texto`|
-|Aspas (3 de cada lado)|Block code|```Texto```|
+|Crase|Inline code|`Texto`|
+|Crase (3 de cada lado)|Block code|```Texto```|
 
 
 **OBS**: Para  fazer uma tabela, basta utilizar do |.
