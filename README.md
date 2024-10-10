@@ -12,6 +12,7 @@ O objetivo da atividade é desenvolver uma "rede blockchain" com funcionalidades
 ## Passo-a-passo:
 
 - Primeiro deve-se dar `git clone` e copiar o link que aparece após clicar em [*Code <>*](https://github.com/Bealvs/Trilha-de-aprendizado---Blockchain.git)
+- Deve-se dar `git checkout Atividade_individual_Blockchain`
 - Ao clonar o repositório, abra o terminal e digite `npm install`
 - Exitem duas bibliotecas que serão instaladas:
   - crypto-js
